@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CivBuilder
+- 👋 Hi, I’m @CivBuilder, I am currently working as an Associate Software Engineer Intern at ChiroTouch
 - 👀 I’m interested in Machine Learning and Software Engineering.
 - 🌱 I’m currently taking classes in: Operating Systems, Machine Learning, Analysis of Algorithms, Information Assurance, Advanced Internet Programming, and Automata/Formal Languages
 - 💞️ I’m looking to collaborate on a neural network for drones for use in search and rescue operations
