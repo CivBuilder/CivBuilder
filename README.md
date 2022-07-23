@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CivBuilder
-- 👀 I’m interested in Cyber Security and Machine Learning.
-- 🌱 I’m currently learning Cyber Security on TryHackMe and Data Structures. 
-- 💞️ I’m looking to collaborate on a genetic algorithm.
+- 👀 I’m interested in Machine Learning and Software Engineering.
+- 🌱 I’m currently taking classes in: Operating Systems, Machine Learning, Analysis of Algorithms, Advanced Internet Programming, and Automata/Formal Languages
+- 💞️ I’m looking to collaborate on a neural network for drones for use in search and rescue operations
 - 📫 How to reach me message me on here or send me an email- catecc1@unlv.nevada.edu
 
 <!---
