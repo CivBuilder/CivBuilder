@@ -9,7 +9,7 @@
 
 </p>
 
-<h3 align="center">I'm currently a Associate Software Engineer Intern at ChiroTouch and a Senior CS Student at UNLV.</h3>
+<h3 align="center">I'm currently a Associate Software Engineer Intern at ChiroTouch and a Senior CS Student at UNLV</h3>
 
 - 🔭 I’m interested in **Machine Learning, System Design, and Software Engineering**
 
