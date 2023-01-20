@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">I currently work as an Associate Software Engineer Intern at ChiroTouch and I'm a Senior CS Student at UNLV.</h3>
 
-- 🔭 I’m interested in **Machine Learning and Software Engineering**
+- 🔭 I’m interested in **Machine Learning, System Design, and Software Engineering**
 
 - 📫 How to reach me **message me on here or send me an email- catecc1@unlv.nevada.edu**
 
