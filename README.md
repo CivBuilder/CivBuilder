@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Chris 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F7EE1A&center=true&width=435&lines=Software+Engineer;Computer+Science+Student;Machine+Learning+Engineer;Designer;Snowboarder)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F7EE1A&center=true&width=435&lines=Software+Engineer;Computer+Science+Student;Machine+Learning+Engineer;Designer;Snowboarder)](https://git.io/typing-svg"/></a>
+</p>
 <h3 align="center">I currently work as an Associate Software Engineer Intern at ChiroTouch and I'm a Senior CS Student at UNLV.</h3>
 
 - 🔭 I’m interested in **Machine Learning and Software Engineering**
