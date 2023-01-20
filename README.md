@@ -72,7 +72,7 @@
 </details open>
 <details open> 
   <summary><h2>⚡ GitHub Profile Stats</h2></summary>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CivBuilder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="CivBuilder's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=CivBuilder&theme=react-dark" /></a>
 </details open> 
 <details open> 
   <summary><h2>Connect with me:</h2></summary>
