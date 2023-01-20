@@ -44,7 +44,7 @@
       <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
   </p>
   
-    <h3>🗄️ Databases and Cloud Hosting</h3>
+ <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
