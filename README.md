@@ -71,6 +71,10 @@
   </p>
 </details open>
 <details open> 
+  <summary><h2>⚡ GitHub Profile Stats</h2></summary>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CivBuilder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details open> 
+<details open> 
   <summary><h2>Connect with me:</h2></summary>
 <p align="left">
 <a href="https://linkedin.com/in/chris-catechis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-catechis" height="30" width="40" /></a>
