@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Chris 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F7EE1A&center=true&width=435&lines=Software+Engineer;Computer+Science+Student;Machine+Learning+Engineer;Designer;Snowboarder)"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F7EE1A&center=true&repeat=false&width=435&lines=Hi%2C+I'm+Chris)](https://git.io/typing-svg"/></a>
+</p><p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&pause=1000&color=F7EE1A&center=true&width=435&lines=Software+Engineer;Computer+Science+Student;Machine+Learning+Engineer;Designer;Snowboarder"/></a>
 </p>
 <h3 align="center">I currently work as an Associate Software Engineer Intern at ChiroTouch and I'm a Senior CS Student at UNLV.</h3>
 
