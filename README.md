@@ -8,15 +8,13 @@
 
 </p>
 
-<h3 align="center">I'm currently a Software Engineer Intern at ChiroTouch and a Senior CS Student at UNLV</h3>
+<h3 align="center">I'm currently a Software Engineer at ChiroTouch, I recently graduated with my BS in CS</h3>
 
 - 🔭 I’m interested in **Machine Learning, System Design, and Software Engineering**
 
 - 📫 How to reach me **message me on here or send me an email- catecc1@unlv.nevada.edu**
 
 - 🤝 I’m looking to collaborate on **a neural network for drones for use in search and rescue operations**
-
-- 🌱 I’m currently taking classes in **Compilers, Software Product Design and Development, Cloud Computing, and Calculus Based Statistics**
 
 <details open>
 
