@@ -8,13 +8,13 @@
 
 </p>
 
-<h3 align="center">I'm currently a Software Engineer at ChiroTouch, I recently graduated with my BS in CS</h3>
+<h3 align="center">I'm currently a freelance Software Engineer, I recently graduated with my BS in Computer Science</h3>
 
-- 🔭 I’m interested in **Machine Learning, System Design, and Software Engineering**
+- 🔭 I’m interested in **Machine Learning, Environmentalism, and Software Engineering**
 
 - 📫 How to reach me **message me on here or send me an email- catecc1@unlv.nevada.edu**
 
-- 🤝 I’m looking to collaborate on **a neural network for drones for use in search and rescue operations**
+- 🤝 I’m looking to collaborate on **Machine Learning projects focused on agriculture**
 
 <details open>
 
