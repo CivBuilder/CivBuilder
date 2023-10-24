@@ -8,7 +8,7 @@
 
 </p>
 
-<h3 align="center">I'm currently a freelance Software Engineer, I recently graduated with my BS in Computer Science</h3>
+<h3 align="center">I'm a Software Developer at Everi and I recently graduated with my BS in Computer Science</h3>
 
 - 🔭 I’m interested in **Machine Learning, Environmentalism, and Software Engineering**
 
