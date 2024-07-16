@@ -4,17 +4,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=30&duration=1&pause=1000&color=F7EE1A&center=true&repeat=false&width=435&lines=Hi%2C+I'm+Chris"/></a>
   <br/>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&duration=4000&pause=1000&color=F7EE1A&center=true&width=435&lines=Software+Engineer;Computer+Science+Student;Machine+Learning+Research;Snowboarder"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&duration=4000&pause=1000&color=F7EE1A&center=true&width=435&lines=Software+Engineer;Game+Developer;Machine+Learning+Research"/></a>
 
 </p>
 
-<h3 align="center">I'm a Software Developer at Everi and I recently graduated with my BS in Computer Science</h3>
+<h3 align="center">I'm a Software/Game Developer at Everi</h3>
 
-- 🔭 I’m interested in **Machine Learning, Environmentalism, and Software Engineering**
+- 🔭 I’m interested in **Machine Learning, Environmentalism, Game Development, and Software Engineering**
 
 - 📫 How to reach me **message me on here or send me an email- catecc1@unlv.nevada.edu**
 
-- 🤝 I’m looking to collaborate on **Machine Learning projects focused on agriculture**
+- 🤝 I’m looking to collaborate on **Machine Learning projects focused on agriculture and game jams**
+
+-  I possess a BS in Computer Science with a Minor in Mathematics. I plan on inevitably pursuing an MBA and furthering my Computer Science education throughout my lifetime, with the inevitable goal of earning my PhD. 
 
 <details open>
 
