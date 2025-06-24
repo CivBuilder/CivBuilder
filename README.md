@@ -8,13 +8,9 @@
 
 </p>
 
-<h3 align="center">I'm a Software/Game Developer at Everi</h3>
+<h3 align="center">I'm a Software Developer at Everi</h3>
 
 - 🔭 I’m interested in **Machine Learning, Environmentalism, Game Development, and Software Engineering**
-
-- 📫 How to reach me **message me on here or send me an email- catecc1@unlv.nevada.edu**
-
-- 🤝 I’m looking to collaborate on **Machine Learning projects focused on agriculture and game jams**
 
 -  I possess a BS in Computer Science with a Minor in Mathematics. I plan on inevitably pursuing an MBA and furthering my Computer Science education throughout my lifetime, with the inevitable goal of earning my PhD. 
 
