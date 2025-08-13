@@ -8,7 +8,7 @@
 
 </p>
 
-<h3 align="center">I'm a Software Developer at Everi</h3>
+<h3 align="center">I'm a SWE at IGT</h3>
 
 - 🔭 I’m interested in **Machine Learning, Environmentalism, Game Development, and Software Engineering**
 
